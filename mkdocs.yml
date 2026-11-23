@@ -1,0 +1,14 @@
+site_name: DevOps Operations Handbook
+site_description: Учебная документация по проверке и публикации изменений
+site_author: "Горячев П.В."
+repo_name: PavlentiyGo/devops-docs
+repo_url: https://github.com/PavlentiyGo/devops-docs
+
+theme:
+  name: mkdocs
+  locale: ru
+
+nav:
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Журнал инцидентов: incidents.md
